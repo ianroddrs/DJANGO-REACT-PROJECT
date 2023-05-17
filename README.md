@@ -49,3 +49,10 @@ T1> py manage.py runserver
 
 T1> python manage.py inspectdb
 T1> python manage.py inspectdb > models.py
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ianroddrs/DJANGO-REACT-PROJECT.git
+git push -u origin main
